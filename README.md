@@ -1,72 +1,72 @@
-### Hi there 👋
-<div align="center">
-  
+# Valentine Maduagwu
 
-### <div align="center">I'm Valentine Maduagwu. Welcome To My Humble Abode.</div>    
-  
+<p align="center">
+  **Software Engineer | Backend Systems · Cloud Infrastructure · AI Agent Engineering**
+</p>
 
-<br/>  
+<p align="center">
+  <a href="https://devval.dev">Website</a>
+  &nbsp; • &nbsp;
+  <a href="https://www.linkedin.com/">LinkedIn</a>
+  &nbsp; • &nbsp;
+  <a href="https://blog.devval.dev">Blog</a>
+  &nbsp; • &nbsp;
+  <a href="mailto:vchidubem9@gmail.com">Contact</a>
+</p>
 
+---
 
-## My Skill Set 
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Theocode12&theme=tokyonight)
+I build backend systems, cloud applications and AI-powered agents. My interests span distributed systems, fintech integrations, cloud infrastructure and agentic applications, with a focus on building practical software that works reliably in production.
 
+## Work With Me
 
-<br/>  
+I work across backend development, AI agent engineering and cloud infrastructure, from focused engineering tasks to complete application builds. I'm particularly interested in building intelligent applications, integrating external services, designing reliable APIs and taking products from development to production.
 
+| Backend & APIs | AI Agents & Automation | Cloud & Delivery |
+|---|---|---|
+| REST APIs, Laravel, Python, FastAPI, database design and application architecture. | AI agents, LLM integrations, tool calling, MCP, agentic workflows and guardrails. | AWS infrastructure, Docker, deployment, CI/CD and production engineering. |
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/Theocode12" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/Val_blazere" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/valentine-chidubem-9a076620a/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://facebook.com/profile.php?id=100008633387006" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://youtube.com/channel/UCUjLhyUrGREb7GzGehIUC4Q" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+## Engineering Profile
 
-<br/>  
+| Backend & Platform | Distributed Systems |
+|---|---|
+| Python, PHP, Laravel, FastAPI, Django, Node.js, PostgreSQL, MySQL and Redis. | WebSockets, MQTT, Celery, Redis Streams, asynchronous processing and event-driven architecture. |
+| **Cloud & Infrastructure** | **AI & Agent Engineering** |
+| AWS, EC2, S3, RDS, ALB, ElastiCache, Docker, Terraform, Linux and GitHub Actions. | AI agents, LLM integrations, tool calling, MCP, agent orchestration, RAG, PyTorch and inference systems. |
 
+## Open Source & Projects
 
-## Github Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Theocode12&show_icons=true&theme=tokyonight)  
+**[Owise](https://github.com/Theocode12/owise)**  
+A Laravel package for integrating with the Wise Platform API, inspired by the developer experience of Laravel Cashier.
 
-<br/>  
+**[Wise PHP SDK](https://github.com/Theocode12/wise-php-sdk)**  
+A PHP SDK for working with Wise Platform APIs, including authentication, transfers, recipients and payments.
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Theocode12&&style=flat-square" align="center" />
-</div>  
-  
+**[Edge–Cloud Inference Orchestration](https://github.com/Theocode12/Project-Thesis)**  
+Research into adaptive edge–cloud inference for real-time industrial anomaly monitoring.
 
-<br/>  
+**[Tennis Simulation & Streaming](https://github.com/Theocode12/Real-Time-Simulator)**  
+A real-time tennis simulation system featuring WebSocket streaming, match logic and AI commentary.
 
+**[Faker](https://github.com/Theocode12/faker)**  
+Contributions to an open-source data generation library.
 
-<br />
+## Latest Writing
 
-----
+- [What I Learned Volunteering at NDC London (Day 2)](https://blog.devval.dev/post/ndc-london-day-2) · January 2026
+- [How Audio Streaming Works: From First Principles to Building Your Own](https://blog.devval.dev/post/streaming) · July 2026
+- [What I Learned Volunteering at NDC London (Day 1)](https://blog.devval.dev/post/ndc-london-day-1) · January 2026
+- [How Dependency Injection Really Works: Laravel vs. FastAPI](https://blog.devval.dev/post/dependency-injection) · September 2026
+- [Interfaces in Python Without Inheritance: Using Protocol](https://blog.devval.dev/post/interfaces-using-python-protocols) · January 2026
 
-<!--
-**Theocode12/Theocode12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Read all articles →](https://blog.devval.dev)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://devval.dev">Website</a>
+  &nbsp; • &nbsp;
+  <a href="https://blog.devval.dev">Blog</a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/Theocode12">GitHub</a>
+</p>
