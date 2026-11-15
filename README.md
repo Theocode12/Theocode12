@@ -1,7 +1,7 @@
 # Valentine Maduagwu
 
 <p align="center">
-  **Software Engineer | Backend Systems · Cloud Infrastructure · AI Agent Engineering**
+  Software Engineer | Backend Systems · Cloud Infrastructure · AI Agent Engineering
 </p>
 
 <p align="center">
@@ -53,11 +53,9 @@ Contributions to an open-source data generation library.
 
 ## Latest Writing
 
-- [What I Learned Volunteering at NDC London (Day 2)](https://blog.devval.dev/post/ndc-london-day-2) · January 2026
-- [How Audio Streaming Works: From First Principles to Building Your Own](https://blog.devval.dev/post/streaming) · July 2026
-- [What I Learned Volunteering at NDC London (Day 1)](https://blog.devval.dev/post/ndc-london-day-1) · January 2026
-- [How Dependency Injection Really Works: Laravel vs. FastAPI](https://blog.devval.dev/post/dependency-injection) · September 2026
-- [Interfaces in Python Without Inheritance: Using Protocol](https://blog.devval.dev/post/interfaces-using-python-protocols) · January 2026
+- [How Audio Streaming Works: From First Principles to Building Your Own](https://blog.devval.dev/post/streaming)
+- [How Dependency Injection Really Works: Laravel vs. FastAPI](https://blog.devval.dev/post/dependency-injection)
+- [Interfaces in Python Without Inheritance: Using Protocol](https://blog.devval.dev/post/interfaces-using-python-protocols)
 
 [Read all articles →](https://blog.devval.dev)
 
